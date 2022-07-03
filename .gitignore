@@ -1,0 +1,7 @@
+/data/gdata/**/*.csv
+/data/pdfs/*.pdf
+/data/transactions_*/*.csv
+/data/transactions/*.csv
+**/**/.vscode
+**/**/target
+/logs/*.log
